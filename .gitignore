@@ -1,0 +1,3 @@
+/server-side/node_modules
+/frontend/node_modules
+/server-side/.env
